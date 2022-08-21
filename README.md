@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# <div align="center"><b> Меня зовут Маняхина Анастасия</b></div>
+## <div align="center"><b> Я начинающий аналитик. Здесь собраны репозитории реализованных мной проектов </b></div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMiMan)](https://github.com/AnaMiMan/github-readme-stats)
 <!--
 **AnaMiMan/AnaMiMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
